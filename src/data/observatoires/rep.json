@@ -1,0 +1,82 @@
+{
+    "titre": "Reptiles",
+    "metakey": "reptile, serpent, l\u00e9zard, orvet, tortue",
+    "icon": "fe-rep3",
+    "couleur": "#62e390",
+    "nomvar": "rep",
+    "nom": "reptile",
+    "nomdeux": "",
+    "latin": "non",
+    "indice": {
+        "ms": 1,
+        "choix": "es",
+        "valchoix": "8",
+        "maillage": "l935",
+        "date": null
+    },
+    "saisie": {
+        "stade": {
+            "Ind\u00e9termin\u00e9": "1",
+            "Adulte": "2",
+            "Juv\u00e9nile": "3",
+            "Mue": "10"
+        },
+        "methode": {
+            "Vu": "0",
+            "Mues": "7",
+            "Autre": "20",
+            "ADN environnemental": "19"
+        },
+        "collecte": {
+            "Observation \u00e0 distance": "1",
+            "Capture": "2",
+            "Photographie": "31",
+            "Plaque": "21"
+        },
+        "statutbio": {
+            "Non renseign\u00e9": "1",
+            "Reproduction": "3",
+            "Hibernation": "4"
+        },
+        "comportement": {
+            "Non renseign\u00e9": "1",
+            "Chasse \/ alimentation": "8",
+            "Repos": "17",
+            "D\u00e9placement": "16",
+            "Accouplement": "19",
+            "Pond": "23"
+        },
+        "mort": {
+            "Collision routi\u00e8re": "3",
+            "Pi\u00e9geage": "6",
+            "Pr\u00e9dation": "2",
+            "Autre": "8"
+        },
+        "protocole": {
+            "Donn\u00e9e fortuite": "1",
+            "POP Reptiles": "24"
+        },
+        "denom": {
+            "Nombre d'individus observ\u00e9s": "IND"
+        },
+        "locale": "non",
+        "col": "non",
+        "mf": "non",
+        "stbio": "vivant"
+    },
+    "categorie": [
+        {
+            "id": "lez",
+            "cat": "L\u00e9zards"
+        },
+        {
+            "id": "ser",
+            "cat": "Serpents"
+        },
+        {
+            "id": "tor",
+            "cat": "Tortues"
+        }
+    ],
+    "description": ""
+}

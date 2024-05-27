@@ -1,0 +1,82 @@
+{
+    "titre": "Amphibiens",
+    "metakey": "grenouille, crapaud, salamandre, triton, anoure, urod\u00e8le",
+    "icon": "fe-amph1",
+    "couleur": "#dcaa6e",
+    "nomvar": "amp",
+    "nom": "Amphibiens",
+    "nomdeux": "amphibiens",
+    "latin": "non",
+    "indice": {
+        "ms": 1,
+        "choix": "es",
+        "valchoix": "8",
+        "maillage": "l935",
+        "date": null
+    },
+    "saisie": {
+        "stade": {
+            "Ind\u00e9termin\u00e9": "1",
+            "Adulte": "2",
+            "Juv\u00e9nile": "3",
+            "T\u00eatard": "8",
+            "Oeuf": "9",
+            "Larve": "6"
+        },
+        "methode": {
+            "Vu": "0",
+            "Vu et entendu": "25",
+            "Inconnu": "21",
+            "Entendu": "1",
+            "ADN environnemental": "19"
+        },
+        "collecte": {
+            "Non renseign\u00e9": "0",
+            "Observation \u00e0 distance": "1",
+            "Epuisette": "7",
+            "Nasse": "12",
+            "Pi\u00e8ge flottant": "18"
+        },
+        "statutbio": {
+            "Inconnu": "0",
+            "Reproduction": "3",
+            "Hibernation": "4"
+        },
+        "comportement": {
+            "Non renseign\u00e9": "1",
+            "Chant": "18",
+            "Accouplement": "19",
+            "Pond": "23",
+            "Chasse \/ alimentation": "8",
+            "Migration": "4"
+        },
+        "mort": {
+            "Inconnu": "1",
+            "Collision routi\u00e8re": "3",
+            "Pi\u00e9geage": "6",
+            "Pr\u00e9dation": "2"
+        },
+        "protocole": {
+            "Donn\u00e9e fortuite": "1"
+        },
+        "denom": {
+            "Nombre d'individus observ\u00e9s": "IND",
+            "Nombre de pontes observ\u00e9es": "PON"
+        },
+        "locale": "non",
+        "col": "non",
+        "mf": "non",
+        "stbio": "vivant"
+    },
+    "categorie": [
+        {
+            "id": "ano",
+            "cat": "Anoures"
+        },
+        {
+            "id": "uro",
+            "cat": "Urod\u00e8les"
+        }
+    ],
+    "description": ""
+}
