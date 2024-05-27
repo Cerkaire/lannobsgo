@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lannobsgo/static/css/main.2e662a65.css",
+    "main.js": "/lannobsgo/static/js/main.54a2e557.js",
+    "index.html": "/lannobsgo/index.html",
+    "main.2e662a65.css.map": "/lannobsgo/static/css/main.2e662a65.css.map",
+    "main.54a2e557.js.map": "/lannobsgo/static/js/main.54a2e557.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e662a65.css",
+    "static/js/main.54a2e557.js"
+  ]
+}
