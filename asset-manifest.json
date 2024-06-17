@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lannobsgo/static/css/main.2e662a65.css",
-    "main.js": "/lannobsgo/static/js/main.eb8e386c.js",
+    "main.js": "/lannobsgo/static/js/main.518b863a.js",
     "static/media/pref1.png": "/lannobsgo/static/media/pref1.a3e70e48d0d71c752836.png",
     "index.html": "/lannobsgo/index.html",
     "main.2e662a65.css.map": "/lannobsgo/static/css/main.2e662a65.css.map",
-    "main.eb8e386c.js.map": "/lannobsgo/static/js/main.eb8e386c.js.map"
+    "main.518b863a.js.map": "/lannobsgo/static/js/main.518b863a.js.map"
   },
   "entrypoints": [
     "static/css/main.2e662a65.css",
-    "static/js/main.eb8e386c.js"
+    "static/js/main.518b863a.js"
   ]
 }
