@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.2e662a65.css",
-    "main.js": "./static/js/main.2088850c.js",
+    "main.css": "./static/css/main.402f247a.css",
+    "main.js": "./static/js/main.b7a8c780.js",
+    "static/media/lato-latin-400-normal.woff2": "./static/media/lato-latin-400-normal.be36596da218e1eec01c.woff2",
+    "static/media/lato-latin-400-normal.woff": "./static/media/lato-latin-400-normal.190b769c7be76a0f0dbf.woff",
     "service-worker.js": "./service-worker.js",
+    "static/media/lato-latin-ext-400-normal.woff2": "./static/media/lato-latin-ext-400-normal.361f3dbb9db6a5980326.woff2",
+    "static/media/lato-latin-ext-400-normal.woff": "./static/media/lato-latin-ext-400-normal.221746f6ba5760746446.woff",
     "index.html": "./index.html",
-    "main.2e662a65.css.map": "./static/css/main.2e662a65.css.map",
-    "main.2088850c.js.map": "./static/js/main.2088850c.js.map"
+    "main.402f247a.css.map": "./static/css/main.402f247a.css.map",
+    "main.b7a8c780.js.map": "./static/js/main.b7a8c780.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e662a65.css",
-    "static/js/main.2088850c.js"
+    "static/css/main.402f247a.css",
+    "static/js/main.b7a8c780.js"
   ]
 }
